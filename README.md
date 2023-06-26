@@ -1,6 +1,3 @@
-# hello_world
-this is my first trial run of creating a repo
-
 # My First and Simple Git Repository
 
 This is my first attempt to create a Git repository on GitHub.
